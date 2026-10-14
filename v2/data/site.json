@@ -1,0 +1,16 @@
+{
+  "_readme": "Business details used across the site. Only CONFIRMED facts belong here. null = not supplied yet (the site shows a placeholder or hides the item).",
+  "name": "Richard's Food Truck",
+  "tagline": "Good food. Good company.",
+  "phoneDisplay": "(828) 803-1763",
+  "phoneE164": "+18288031763",
+  "address": { "street": "221 North Church St", "city": "Hendersonville", "region": "NC", "postalCode": null, "country": "US" },
+  "addressStatus": "Recorded as 'business address or current service location' - confirm before launch whether this is the public walk-up spot.",
+  "timezone": "America/New_York",
+  "facebook": "https://www.facebook.com/people/Richards-Food-Truck/61593781874820/",
+  "facebookVerified": false,
+  "instagram": null,
+  "email": null,
+  "inquiryEmail": null,
+  "mapEmbed": "click"
+}

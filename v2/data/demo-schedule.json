@@ -1,0 +1,7 @@
+{
+  "_readme": "SAMPLE DATA ONLY - used when the page is opened with ?demo=1 to show how the live schedule works. Not Richard's real hours or stops.",
+  "timezone": "America/New_York",
+  "weekly": [ { "days": ["Mon","Tue","Wed","Thu","Fri","Sat"], "start": "07:00", "end": "15:00", "place": "Sample stop (demo)", "address": "221 North Church St, Hendersonville, NC", "note": "Demo hours" } ],
+  "dates": [],
+  "closures": []
+}

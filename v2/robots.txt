@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# PRIVATE PREVIEW. At approved launch replace with "Allow: /" and add Sitemap: https://YOUR-DOMAIN/sitemap.xml

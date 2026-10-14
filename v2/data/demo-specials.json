@@ -1,0 +1,1 @@
+{ "_readme": "SAMPLE DATA ONLY for ?demo=1.", "specials": [ { "title": "Sample special (demo)", "text": "This is how a daily special looks. Edit data/specials.json to post a real one." } ] }

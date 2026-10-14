@@ -1,0 +1,16 @@
+{
+  "_readme": "Photo gallery. img = base name in assets/img (the site loads <img>-480 and the large size listed). Captions describe what is in the photo; they are NOT menu item names. kind: photo (real photo) or concept (AI illustration - always labelled).",
+  "items": [
+    {"img":"truck","large":1100,"w":1100,"h":825,"alt":"Richard's red food truck with burgundy umbrellas and patio tables on the lawn","caption":"The truck and patio, Hendersonville"},
+    {"img":"croissant","large":937,"w":937,"h":1250,"alt":"Bacon, egg and cheese croissant sandwich in a takeout box","caption":"Bacon, egg and cheese croissant"},
+    {"img":"burger","large":675,"w":675,"h":1200,"alt":"Burger on a sesame bun with tomato on a white plate","caption":"Burger off the grill"},
+    {"img":"biscuits","large":900,"w":900,"h":1200,"alt":"Three biscuit halves covered in peppered gravy on a white plate","caption":"Biscuits and gravy"},
+    {"img":"pulled","large":709,"w":709,"h":945,"alt":"Pulled meat sandwich on a sesame bun with slaw in a takeout box","caption":"Pulled-meat sandwich with slaw"},
+    {"img":"croissant-pair","large":937,"w":937,"h":1250,"alt":"Two breakfast croissant sandwiches in a takeout box","caption":"Two breakfast croissant sandwiches"},
+    {"img":"rye","large":900,"w":900,"h":1200,"alt":"Toasted rye sandwich with meat, cheese and cabbage in a paper boat","caption":"Rye sandwich with meat, cheese and cabbage"},
+    {"img":"blackbean","large":709,"w":709,"h":946,"alt":"Toasted sandwich cut in half with black-bean-style filling and greens","caption":"Toasted black-bean-style sandwich"},
+    {"img":"cut-egg","large":937,"w":937,"h":1250,"alt":"Egg and cheese sandwich cut in half beside a tomato slice","caption":"Egg and cheese sandwich"},
+    {"img":"open-egg","large":900,"w":900,"h":1200,"alt":"Open-face egg and cheese on toast with a tomato slice","caption":"Open egg and cheese with tomato"},
+    {"img":"trailer","large":1100,"w":1100,"h":825,"alt":"Richard's catering trailer with the thumbs-up mascot logo","caption":"The catering trailer"}
+  ]
+}

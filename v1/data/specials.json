@@ -1,0 +1,4 @@
+{
+  "_readme": "Specials banner at the top of the page. Empty list = no banner. Each special: title (required), text, from/until (YYYY-MM-DD, optional, inclusive). Expired or future specials hide automatically.",
+  "specials": []
+}
