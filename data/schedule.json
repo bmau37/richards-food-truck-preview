@@ -1,0 +1,12 @@
+{
+  "_readme": "Where's the truck. All times are local Hendersonville time (America/New_York), 24-hour HH:MM. Leave lists empty until Richard's confirms. weekly = repeating stops; dates = one-off stops/events (override weekly that day); closures = dates the truck is off.",
+  "timezone": "America/New_York",
+  "weekly": [],
+  "dates": [],
+  "closures": [],
+  "_example": {
+    "weekly": [ { "days": ["Mon","Tue","Wed","Thu","Fri"], "start": "07:00", "end": "14:00", "place": "Home base", "address": "221 North Church St, Hendersonville, NC", "note": "" } ],
+    "dates":  [ { "date": "2026-10-24", "start": "11:00", "end": "15:00", "place": "Event name", "address": "Street, City, NC", "note": "Public event" } ],
+    "closures": [ { "date": "2026-11-26", "note": "Closed for Thanksgiving" } ]
+  }
+}

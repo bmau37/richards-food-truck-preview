@@ -1,0 +1,66 @@
+{
+  "_readme": "Menu. Names transcribed from Richard's photographed menus observed Oct 10, 2026 (draft). price: null shows 'Ask'. Use a number like 6.5 or a string like '$6.50' once confirmed. tags: dietary tags shown as filter chips, e.g. [\"vegetarian\"] - add ONLY after Richard's confirms. desc: optional one-line description - add only confirmed text.",
+  "status": "draft",
+  "currency": "USD",
+  "categories": [
+    { "id": "breakfast", "name": "Breakfast", "blurb": "A breakfast favorite from the truck.", "icon": "biscuit", "photo": "biscuits",
+      "items": [
+        {"name":"Butter biscuit","price":null,"tags":[]},
+        {"name":"Jelly biscuit","price":null,"tags":[]},
+        {"name":"Biscuit and gravy","price":null,"tags":[]},
+        {"name":"Egg biscuit","price":null,"tags":[]},
+        {"name":"Cheese biscuit","price":null,"tags":[]},
+        {"name":"Bacon biscuit","price":null,"tags":[]},
+        {"name":"Sausage biscuit","price":null,"tags":[]},
+        {"name":"Pulled pork biscuit","price":null,"tags":[]},
+        {"name":"Egg sandwich","price":null,"tags":[]},
+        {"name":"Bacon sandwich","price":null,"tags":[]},
+        {"name":"Sausage sandwich","price":null,"tags":[]},
+        {"name":"Pulled pork sandwich","price":null,"tags":[]},
+        {"name":"Omelet biscuit","price":null,"tags":[]},
+        {"name":"Pancakes, butter and syrup","price":null,"tags":[]},
+        {"name":"Pancakes, butter, syrup and sausage","price":null,"tags":[]},
+        {"name":"Cinnamon roll with cream-cheese frosting","price":null,"tags":[]}
+      ]},
+    { "id": "sandwiches", "name": "Sandwiches", "blurb": "Grilled sandwiches with plenty of character.", "icon": "sandwich", "photo": "rye",
+      "items": [
+        {"name":"Killer Turkey Sandwich","price":null,"tags":[]},
+        {"name":"Grandma's Chicken Salad Sandwich","price":null,"tags":[]},
+        {"name":"Richard's Pulled Pork Barbecue Sandwich","price":null,"tags":[]},
+        {"name":"The Farmstead","price":null,"tags":[]},
+        {"name":"A Good Sense of Hummus","price":null,"tags":[]},
+        {"name":"Ruben's Pastime","price":null,"tags":[]},
+        {"name":"The Classic Grilled Cheese","price":null,"tags":[]}
+      ]},
+    { "id": "burgers", "name": "Burgers & melts", "blurb": "Fresh burger, patty melt or black bean options.", "icon": "burger", "photo": "burger",
+      "items": [
+        {"name":"1/3 Pound Fresh Burger","price":null,"tags":[]},
+        {"name":"Black bean veggie burger","price":null,"tags":[]},
+        {"name":"Patty Melt","price":null,"tags":[]},
+        {"name":"Black bean veggie burger melt","price":null,"tags":[]}
+      ]},
+    { "id": "sides", "name": "Sides", "blurb": "Round out the plate.", "icon": "fries", "photo": null,
+      "items": [
+        {"name":"Grits","price":null,"tags":[]},
+        {"name":"Grits with cheese","price":null,"tags":[]},
+        {"name":"Hashbrowns","price":null,"tags":[]},
+        {"name":"Fries","price":null,"tags":[]},
+        {"name":"Fries and gravy","price":null,"tags":[]},
+        {"name":"White cheddar macaroni and cheese","price":null,"tags":[]},
+        {"name":"Onion rings","price":null,"tags":[]},
+        {"name":"Tater tots","price":null,"tags":[]},
+        {"name":"Pineapple fire slaw","price":null,"tags":[]}
+      ]},
+    { "id": "drinks", "name": "Drinks & sweets", "blurb": "Coffee, cold drinks and big cookies.", "icon": "coffee", "photo": null,
+      "items": [
+        {"name":"Coffee","price":null,"tags":[]},
+        {"name":"Canned soda","price":null,"tags":[]},
+        {"name":"LaCroix","price":null,"tags":[]},
+        {"name":"Bottled water","price":null,"tags":[]},
+        {"name":"Quarter-pound chocolate chip cookie","price":null,"tags":[]},
+        {"name":"Quarter-pound oatmeal raisin cookie","price":null,"tags":[]},
+        {"name":"Apple caramel cookie","price":null,"tags":[]}
+      ]}
+  ],
+  "tagLabels": { "vegetarian": "Vegetarian", "vegan": "Vegan", "gluten-free": "Gluten-free", "spicy": "Spicy", "new": "New" }
+}

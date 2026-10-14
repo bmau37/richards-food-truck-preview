@@ -1,0 +1,482 @@
+[
+ {
+  "file": "assets/img/truck-480.webp",
+  "source": "hero.jpg",
+  "kind": "original-photo",
+  "width": 480,
+  "height": 360,
+  "bytes": 50672
+ },
+ {
+  "file": "assets/img/truck-480.jpg",
+  "source": "hero.jpg",
+  "kind": "original-photo",
+  "width": 480,
+  "height": 360,
+  "bytes": 52596
+ },
+ {
+  "file": "assets/img/truck-640.webp",
+  "source": "hero.jpg",
+  "kind": "original-photo",
+  "width": 640,
+  "height": 480,
+  "bytes": 86526
+ },
+ {
+  "file": "assets/img/truck-640.jpg",
+  "source": "hero.jpg",
+  "kind": "original-photo",
+  "width": 640,
+  "height": 480,
+  "bytes": 92183
+ },
+ {
+  "file": "assets/img/truck-1100.webp",
+  "source": "hero.jpg",
+  "kind": "original-photo",
+  "width": 1100,
+  "height": 825,
+  "bytes": 231630
+ },
+ {
+  "file": "assets/img/truck-1100.jpg",
+  "source": "hero.jpg",
+  "kind": "original-photo",
+  "width": 1100,
+  "height": 825,
+  "bytes": 246846
+ },
+ {
+  "file": "assets/img/trailer-480.webp",
+  "source": "logo.jpg",
+  "kind": "original-photo (supplied logo reference)",
+  "width": 480,
+  "height": 360,
+  "bytes": 38656
+ },
+ {
+  "file": "assets/img/trailer-480.jpg",
+  "source": "logo.jpg",
+  "kind": "original-photo (supplied logo reference)",
+  "width": 480,
+  "height": 360,
+  "bytes": 47197
+ },
+ {
+  "file": "assets/img/trailer-640.webp",
+  "source": "logo.jpg",
+  "kind": "original-photo (supplied logo reference)",
+  "width": 640,
+  "height": 480,
+  "bytes": 56506
+ },
+ {
+  "file": "assets/img/trailer-640.jpg",
+  "source": "logo.jpg",
+  "kind": "original-photo (supplied logo reference)",
+  "width": 640,
+  "height": 480,
+  "bytes": 74706
+ },
+ {
+  "file": "assets/img/trailer-1100.webp",
+  "source": "logo.jpg",
+  "kind": "original-photo (supplied logo reference)",
+  "width": 1100,
+  "height": 825,
+  "bytes": 116888
+ },
+ {
+  "file": "assets/img/trailer-1100.jpg",
+  "source": "logo.jpg",
+  "kind": "original-photo (supplied logo reference)",
+  "width": 1100,
+  "height": 825,
+  "bytes": 170033
+ },
+ {
+  "file": "assets/img/burger-480.webp",
+  "source": "burger.jpg",
+  "kind": "original-photo",
+  "width": 480,
+  "height": 853,
+  "bytes": 53508
+ },
+ {
+  "file": "assets/img/burger-480.jpg",
+  "source": "burger.jpg",
+  "kind": "original-photo",
+  "width": 480,
+  "height": 853,
+  "bytes": 73698
+ },
+ {
+  "file": "assets/img/burger-675.webp",
+  "source": "burger.jpg",
+  "kind": "original-photo",
+  "width": 675,
+  "height": 1200,
+  "bytes": 88662
+ },
+ {
+  "file": "assets/img/burger-675.jpg",
+  "source": "burger.jpg",
+  "kind": "original-photo",
+  "width": 675,
+  "height": 1200,
+  "bytes": 123990
+ },
+ {
+  "file": "assets/img/biscuits-480.webp",
+  "source": "biscuit.jpg",
+  "kind": "original-photo",
+  "width": 480,
+  "height": 640,
+  "bytes": 32424
+ },
+ {
+  "file": "assets/img/biscuits-480.jpg",
+  "source": "biscuit.jpg",
+  "kind": "original-photo",
+  "width": 480,
+  "height": 640,
+  "bytes": 50496
+ },
+ {
+  "file": "assets/img/biscuits-900.webp",
+  "source": "biscuit.jpg",
+  "kind": "original-photo",
+  "width": 900,
+  "height": 1200,
+  "bytes": 77758
+ },
+ {
+  "file": "assets/img/biscuits-900.jpg",
+  "source": "biscuit.jpg",
+  "kind": "original-photo",
+  "width": 900,
+  "height": 1200,
+  "bytes": 130064
+ },
+ {
+  "file": "assets/img/rye-480.webp",
+  "source": "sandwich.jpg",
+  "kind": "original-photo",
+  "width": 480,
+  "height": 640,
+  "bytes": 57494
+ },
+ {
+  "file": "assets/img/rye-480.jpg",
+  "source": "sandwich.jpg",
+  "kind": "original-photo",
+  "width": 480,
+  "height": 640,
+  "bytes": 70983
+ },
+ {
+  "file": "assets/img/rye-900.webp",
+  "source": "sandwich.jpg",
+  "kind": "original-photo",
+  "width": 900,
+  "height": 1200,
+  "bytes": 130898
+ },
+ {
+  "file": "assets/img/rye-900.jpg",
+  "source": "sandwich.jpg",
+  "kind": "original-photo",
+  "width": 900,
+  "height": 1200,
+  "bytes": 183729
+ },
+ {
+  "file": "assets/img/open-egg-480.webp",
+  "source": "before8.jpg",
+  "kind": "original-photo",
+  "width": 480,
+  "height": 640,
+  "bytes": 47658
+ },
+ {
+  "file": "assets/img/open-egg-480.jpg",
+  "source": "before8.jpg",
+  "kind": "original-photo",
+  "width": 480,
+  "height": 640,
+  "bytes": 60536
+ },
+ {
+  "file": "assets/img/open-egg-900.webp",
+  "source": "before8.jpg",
+  "kind": "original-photo",
+  "width": 900,
+  "height": 1200,
+  "bytes": 116382
+ },
+ {
+  "file": "assets/img/open-egg-900.jpg",
+  "source": "before8.jpg",
+  "kind": "original-photo",
+  "width": 900,
+  "height": 1200,
+  "bytes": 164348
+ },
+ {
+  "file": "assets/img/croissant-480.webp",
+  "source": "i-000.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p1)",
+  "width": 480,
+  "height": 640,
+  "bytes": 20786
+ },
+ {
+  "file": "assets/img/croissant-480.jpg",
+  "source": "i-000.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p1)",
+  "width": 480,
+  "height": 640,
+  "bytes": 37741
+ },
+ {
+  "file": "assets/img/croissant-937.webp",
+  "source": "i-000.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p1)",
+  "width": 937,
+  "height": 1250,
+  "bytes": 54406
+ },
+ {
+  "file": "assets/img/croissant-937.jpg",
+  "source": "i-000.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p1)",
+  "width": 937,
+  "height": 1250,
+  "bytes": 117460
+ },
+ {
+  "file": "assets/img/croissant-pair-480.webp",
+  "source": "i-004.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p2)",
+  "width": 480,
+  "height": 640,
+  "bytes": 25502
+ },
+ {
+  "file": "assets/img/croissant-pair-480.jpg",
+  "source": "i-004.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p2)",
+  "width": 480,
+  "height": 640,
+  "bytes": 42958
+ },
+ {
+  "file": "assets/img/croissant-pair-937.webp",
+  "source": "i-004.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p2)",
+  "width": 937,
+  "height": 1250,
+  "bytes": 65612
+ },
+ {
+  "file": "assets/img/croissant-pair-937.jpg",
+  "source": "i-004.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p2)",
+  "width": 937,
+  "height": 1250,
+  "bytes": 131042
+ },
+ {
+  "file": "assets/img/pulled-480.webp",
+  "source": "i-008.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p3)",
+  "width": 480,
+  "height": 640,
+  "bytes": 23218
+ },
+ {
+  "file": "assets/img/pulled-480.jpg",
+  "source": "i-008.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p3)",
+  "width": 480,
+  "height": 640,
+  "bytes": 40385
+ },
+ {
+  "file": "assets/img/pulled-709.webp",
+  "source": "i-008.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p3)",
+  "width": 709,
+  "height": 945,
+  "bytes": 41270
+ },
+ {
+  "file": "assets/img/pulled-709.jpg",
+  "source": "i-008.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p3)",
+  "width": 709,
+  "height": 945,
+  "bytes": 84400
+ },
+ {
+  "file": "assets/img/blackbean-480.webp",
+  "source": "i-012.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p4)",
+  "width": 480,
+  "height": 640,
+  "bytes": 32484
+ },
+ {
+  "file": "assets/img/blackbean-480.jpg",
+  "source": "i-012.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p4)",
+  "width": 480,
+  "height": 640,
+  "bytes": 48561
+ },
+ {
+  "file": "assets/img/blackbean-709.webp",
+  "source": "i-012.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p4)",
+  "width": 709,
+  "height": 946,
+  "bytes": 57676
+ },
+ {
+  "file": "assets/img/blackbean-709.jpg",
+  "source": "i-012.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p4)",
+  "width": 709,
+  "height": 946,
+  "bytes": 99887
+ },
+ {
+  "file": "assets/img/cut-egg-480.webp",
+  "source": "i-020.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p6)",
+  "width": 480,
+  "height": 640,
+  "bytes": 37240
+ },
+ {
+  "file": "assets/img/cut-egg-480.jpg",
+  "source": "i-020.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p6)",
+  "width": 480,
+  "height": 640,
+  "bytes": 51086
+ },
+ {
+  "file": "assets/img/cut-egg-937.webp",
+  "source": "i-020.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p6)",
+  "width": 937,
+  "height": 1250,
+  "bytes": 98388
+ },
+ {
+  "file": "assets/img/cut-egg-937.jpg",
+  "source": "i-020.png",
+  "kind": "original-photo (ACTUAL ORIGINAL, concept PDF p6)",
+  "width": 937,
+  "height": 1250,
+  "bytes": 161847
+ },
+ {
+  "file": "assets/img/concept-evening-640.webp",
+  "source": "scene2.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 640,
+  "height": 427,
+  "bytes": 71850
+ },
+ {
+  "file": "assets/img/concept-evening-640.jpg",
+  "source": "scene2.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 640,
+  "height": 427,
+  "bytes": 78616
+ },
+ {
+  "file": "assets/img/concept-evening-1000.webp",
+  "source": "scene2.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 1000,
+  "height": 667,
+  "bytes": 149826
+ },
+ {
+  "file": "assets/img/concept-evening-1000.jpg",
+  "source": "scene2.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 1000,
+  "height": 667,
+  "bytes": 170080
+ },
+ {
+  "file": "assets/img/concept-table-640.webp",
+  "source": "scene3.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 640,
+  "height": 427,
+  "bytes": 67998
+ },
+ {
+  "file": "assets/img/concept-table-640.jpg",
+  "source": "scene3.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 640,
+  "height": 427,
+  "bytes": 78393
+ },
+ {
+  "file": "assets/img/concept-table-1000.webp",
+  "source": "scene3.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 1000,
+  "height": 667,
+  "bytes": 138356
+ },
+ {
+  "file": "assets/img/concept-table-1000.jpg",
+  "source": "scene3.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 1000,
+  "height": 667,
+  "bytes": 165721
+ },
+ {
+  "file": "assets/img/concept-kitchen-640.webp",
+  "source": "scene4.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 640,
+  "height": 427,
+  "bytes": 65878
+ },
+ {
+  "file": "assets/img/concept-kitchen-640.jpg",
+  "source": "scene4.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 640,
+  "height": 427,
+  "bytes": 78400
+ },
+ {
+  "file": "assets/img/concept-kitchen-1000.webp",
+  "source": "scene4.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 1000,
+  "height": 667,
+  "bytes": 134426
+ },
+ {
+  "file": "assets/img/concept-kitchen-1000.jpg",
+  "source": "scene4.jpg",
+  "kind": "AI ILLUSTRATED CONCEPT - not an event photo",
+  "width": 1000,
+  "height": 667,
+  "bytes": 164957
+ }
+]
